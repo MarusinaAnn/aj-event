@@ -2,6 +2,8 @@
     
 [![Build status](https://ci.appveyor.com/api/projects/status/bg0y86c36cu6b14g?svg=true)](https://ci.appveyor.com/project/MarusinaAnn/aj-event)
 
+https://marusinaann.github.io/aj-event/
+
 # Домашнее задание к занятию "3.Обработка событий"
 
 Правила сдачи задания:
