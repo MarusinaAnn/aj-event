@@ -1,6 +1,6 @@
-![CI](https://github.com/SubHunt/ahj_3_events/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/MarusinaAnn/aj-event/actions/workflows/web.yml/badge.svg)
     
-[![Build status](https://ci.appveyor.com/api/projects/status/bg0y86c36cu6b14g?svg=true)](https://ci.appveyor.com/project/SubHunt/ahj-3-events)
+[![Build status](https://ci.appveyor.com/api/projects/status/bg0y86c36cu6b14g?svg=true)](https://ci.appveyor.com/project/MarusinaAnn/aj-event)
 
 # Домашнее задание к занятию "3.Обработка событий"
 
